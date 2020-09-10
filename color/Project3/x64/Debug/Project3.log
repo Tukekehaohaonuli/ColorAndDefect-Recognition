@@ -1,0 +1,27 @@
+﻿  源.cpp
+d:\project data\color\project3\源.cpp(144): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\project data\color\project3\源.cpp(145): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\project data\color\project3\源.cpp(146): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\project data\color\project3\源.cpp(147): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\project data\color\project3\源.cpp(148): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+  Project3.vcxproj -> D:\project data\color\x64\Debug\Project3.exe

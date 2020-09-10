@@ -1,0 +1,3 @@
+/home/moshanhui/ColorSeg/build/CMakeFiles/edit_cache.dir
+/home/moshanhui/ColorSeg/build/CMakeFiles/rebuild_cache.dir
+/home/moshanhui/ColorSeg/build/CMakeFiles/demo.dir
